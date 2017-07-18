@@ -1,3 +1,3 @@
 # Angular
 
-A Samples registration of classes with Angular.
+A simple registration of classes with Angular.
